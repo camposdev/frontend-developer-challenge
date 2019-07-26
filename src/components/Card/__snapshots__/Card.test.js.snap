@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card test suit renders correctly 1`] = `
+<div
+  className="sc-bwzfXH uTxCW"
+>
+  <img
+    alt="Product Number 0"
+    className="sc-htpNat PQLaC"
+    src="//imagens.pontofrio.com.br/Control/ArquivoExibir.aspx?IdArquivo=5783178"
+  />
+  <h4
+    className="sc-bxivhb dkxgvx"
+  >
+    Product Number 0
+  </h4>
+  <p
+    className="sc-ifAKCX efpgmk"
+  >
+    Product long description number 0 just to make more than one like of text.
+  </p>
+  <div
+    className="sc-EHOje hmtkNb"
+  >
+    De: 
+    $398.00
+  </div>
+  <div
+    className="sc-bZQynM gbyGVL"
+  >
+    Por: 
+    $352.00
+  </div>
+  <div
+    className="sc-gzVnrw dHbKdU"
+  >
+    ou 
+    10
+    x de 
+    $35.20
+  </div>
+  <button
+    className="sc-bdVaJa dsxofe"
+  >
+    Comprar
+  </button>
+</div>
+`;

@@ -1,0 +1,30 @@
+:root {
+  --primary: #888888;
+  --secondary: #707070;
+  --danger: #ff401e;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", sans-serif;
+  color: var(--primary);
+  font-size: 1.4rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4 { margin: 0; }
+input,
+button {
+  font-family: "Helvetica Neue", sans-serif;
+  color: var(--primary);
+  outline: none;
+}
