@@ -1,27 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Front-end Developer Challenge
 
-## Available Scripts
+[Demonstration](https://build-amkhrkfkoz.now.sh/).
 
-In the project directory, you can run:
+## Tecnologies
 
-### `yarn start`
+* [React](https://reactjs.org/) as UI library;
+* [Styled Components](https://www.styled-components.com) for style components;
+* [Formik](https://jaredpalmer.com/formik/) for validate forms;
+* [Testing Library](https://testing-library.com/) for unit tests;
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Development
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+1. Close this repository;
+2. Run `yarn` to install dependencies;
+3. Run `yarn start` to start project;
 
-### `yarn test`
+## Build
 
-Launches the test runner in the interactive watch mode.<br>
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Run `yarn build` to build the project in the `/build` directory.
